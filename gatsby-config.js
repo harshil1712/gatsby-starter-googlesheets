@@ -41,14 +41,6 @@ module.exports = {
         }
       }
     },
-    // {
-    //   resolve: 'gatsby-source-google-sheets',
-    //   options: {
-    //       spreadsheetId: '1ZIZOSXBu7LXf6GMQI4ndfnK5e61Qx_awEQNB2oGhgN8',
-    //       worksheetTitle: 'Sheet1',
-    //       credentials: require('./client_secret.json')
-    //   }
-    // }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
